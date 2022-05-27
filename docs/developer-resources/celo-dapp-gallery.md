@@ -255,3 +255,10 @@ Non-custodial multichain NFT marketplace, connected to Celo
 
 * [Website](https://raregems.io/)
 * [Celo NFT collections](https://raregems.io/celo)
+
+## Climate Guardians
+
+Climate Guardians is a new type of strategy game that gives the player the possibility to change the world by actually stopping deforestation in the real world. 
+
+* [Website](https://climateguardians.io/)
+* [GitHub](https://github.com/climate-guardians/ClimateGuardiansDAO)
